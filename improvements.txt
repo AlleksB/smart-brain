@@ -1,4 +1,0 @@
-IMPROVEMENTS:
-
-- multiple face detection
-- fixed background particles
